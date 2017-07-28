@@ -1,2 +1,2 @@
 # Hello-World
-This repository purely out of sentiment
+This repository exists purely out of sentiment
